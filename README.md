@@ -3,3 +3,5 @@ Collaboration notes
 
 ## Notes
 Initial shared research notes.
+
+- Co-authored item
