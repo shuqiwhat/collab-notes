@@ -5,5 +5,3 @@ Collaboration notes
 Initial shared research notes.
 
 - Co-authored item
-
-<!-- rev 5 -->
